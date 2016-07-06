@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PingPong</string>
+    <string name="Credits">Credits</string>
+    <string name="Credits_opening">This is just a simple PingPong game made by :</string>
+    <string name="member1">Nico Limbara</string>
+    <string name="member2">Henry Kurniawan</string>
+    <string name="member3">Yunas Hanifah</string>
+</resources>
